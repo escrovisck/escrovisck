@@ -1,6 +1,6 @@
 ## Me:
 
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning.
 - ⚡ Fun fact: I can legally marry people on the US. 
 
 ## Languages:
